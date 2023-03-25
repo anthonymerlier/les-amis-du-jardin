@@ -29,3 +29,17 @@ body {
 .btn-success {
   background-color: #3f9106;
 }
+
+.hero_header {
+  height: 600px;
+  background: linear-gradient(rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.35)),
+    url("../images/hero_header.jpg") center center no-repeat;
+  background-size: cover;
+  align-items: center;
+  display: flex;
+}
+
+.hero_header .content {
+  color: white;
+  max-width: 380px;
+}
