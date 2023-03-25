@@ -49,3 +49,9 @@ Le site web doit être responsive, c'est-à-dire qu'il doit être optimisé pour
 # Les technologies
 
 Le site est conçu en **HTML** / **CCS** et appuyé par **Bootstrap** pour réaliser l'interface statique. J'utiliserai des link CDN pour faciliter l'ouverture du projet sur un autre poste et afin d'éviter l'utilisation obligatoire de NPM.
+
+<br><br>
+
+# Le template à suivre
+
+Lien du modèle Figma : https://www.figma.com/file/haOtRTZJBLCtIGY09AykkO/Untitled?node-id=0%3A1&t=eQZ1LJYcx5A04Qt8-1
