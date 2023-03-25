@@ -20,19 +20,31 @@ Les Amis du Jardin est une association fictive qui a pour but de promouvoir l'am
 
 <img src="https://i.ibb.co/z56k75g/Green-leave-logo-removebg-preview-1.png" width="150" alt="accessibility text">
 
+<br>
+
 ### Couleurs
 
 Pour ce site web, il serait idéal d'utiliser des couleurs vives et naturelles qui rappellent la nature, comme le vert, le marron, le jaune, le rouge et le bleu. Les couleurs doivent être bien équilibrées et ne pas être trop agressives pour les yeux.
+<br><br>
+
+### Polices
+
+Les polices d'écritures à respecter impérativement seront :
+
+Montserrat : https://fonts.google.com/specimen/Montserrat<br>Lato : https://fonts.google.com/specimen/Lato
+<br><br>
 
 ### Styles
 
 Le style du site web doit être simple, propre et facile à naviguer. Il doit être convivial et accessible pour tous les types de publics. <br>Il doit utiliser des images de nature, de plantes, de légumes, etc. pour renforcer le message de l'association.
 
+<br>
+
 ### Autres détails
 
 Le site web doit être responsive, c'est-à-dire qu'il doit être optimisé pour les appareils mobiles et les tablettes. Il doit également être facile à mettre à jour pour les administrateurs de l'association, avec des fonctionnalités telles qu'un blog ou un calendrier d'événements. <br>Il peut également inclure des témoignages de membres de l'association ou des articles de blog sur l'environnement.
 
-<br>
+<br><br>
 
 # Les technologies
 
