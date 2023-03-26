@@ -95,3 +95,7 @@ body {
 footer {
   background: linear-gradient(121.7deg, #649f3a 30.91%, #407a17 80.47%);
 }
+.bottom-footer {
+  background: #034c3c;
+  color: white;
+}
