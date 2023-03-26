@@ -26,8 +26,17 @@ body {
   width: 125px;
 }
 
-.btn-success {
-  background-color: #3f9106;
+.btn-success,
+.bg-success {
+  background-color: #3f9106 !important;
+}
+
+.border-success {
+  border-color: #3f9106 !important;
+}
+
+.text-success {
+  color: #3f9106 !important;
 }
 
 .hero_header {
@@ -53,5 +62,36 @@ body {
   color: white;
   font-weight: 300 !important;
   font-size: 24px;
+}
+.args.green {
+  background: linear-gradient(121.7deg, #649f3a 30.91%, #407a17 80.47%);
+}
+.args.blue {
+  background: #507dbc;
+}
+
+.advantages h3 {
+  font-family: "Montserrat", sans-serif;
+}
+
+.advantages .card > img {
+  height: 220px;
+  object-fit: cover;
+}
+
+.blog {
+  background: url("../images/bg-feuilles.png") repeat;
+}
+
+.blog .card > img {
+  height: 280px;
+  object-fit: cover;
+}
+
+.blog .bg-brown {
+  background-color: #644536;
+}
+
+footer {
   background: linear-gradient(121.7deg, #649f3a 30.91%, #407a17 80.47%);
 }
