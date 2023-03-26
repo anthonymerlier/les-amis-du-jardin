@@ -43,3 +43,15 @@ body {
   color: white;
   max-width: 380px;
 }
+
+.args {
+  height: 120px;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  font-style: italic;
+  color: white;
+  font-weight: 300 !important;
+  font-size: 24px;
+  background: linear-gradient(121.7deg, #649f3a 30.91%, #407a17 80.47%);
+}
