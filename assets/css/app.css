@@ -99,3 +99,10 @@ footer {
   background: #034c3c;
   color: white;
 }
+.event img {
+  max-height: 280px;
+  object-fit: cover;
+  object-position: top;
+  width: 100%;
+  min-height: 100%;
+}
